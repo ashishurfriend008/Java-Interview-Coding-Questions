@@ -1,0 +1,65 @@
+https://www.youtube.com/playlist?list=PLF9tovyahfL020hGgLIsRMZY4bfSLCFUa(All possible programs with answers)
+
+1 > Write a program to print fibonacci series.
+
+2 > Write a program to check a number is prime or not.
+
+3 > How to swap two numbers in java.
+
+4 > How to swap two numbers without using temp variable.
+
+5 > Write a program to reverse string without using api.
+
+6 > Write a program to reverse array.
+
+7 > Write a program to revere a number in java.
+
+8 > Write a program to calculate factorial of a number in java.
+
+9 > Write a program to find sum of digits of a number.
+
+10 > Write a program to sort map by value.
+
+11 > Write a program to find perfect number or not.
+
+12 > Write a program to implement bubble sort.
+
+13 > Write a program to check given number is binary or not.
+
+14 > Write a program to find armstrong number in java.
+
+15 > Write a program to find common elements between two arrays in java.
+
+16 > Write a program to reverse string using recursion.
+
+17 > Write a program to check two strings are anagrams or not.
+
+18 > Write a program to create deadlock between two threads in java.
+
+19 > Write a program to find factors of a number from 1 to 100.
+
+20 > Write a program to find the second largest element in array in java.
+
+21 > Write a program to print numbers without using loops.
+
+22 > Write a program to find missing number in an array.
+
+23 > Write a program to find duplicate number in an array.
+
+24 > Write a program to find the factorial of a large number.
+
+25 > Write a program to print duplicates from a string in java.
+
+26 > Write a program to remove duplicates from the String in java.
+
+27 > Write a program to find the given number is even or odd.
+
+28 > write a java program to count the number of vowles in a String in java
+
+29 > Write a program to print floyds triangle in java.
+
+30 > Write a program to implement binary search of a number.
+
+31 > How to calculate area of rectangle in java.
+
+32 > Different ways to iterate hash map in java.
